@@ -7,6 +7,6 @@ public class SecondClass {
         System.out.println("git 分支 dev");
         System.out.println("git 分支 dev");
         System.out.println("git 分支 dev");
-        System.out.println("git 分支 dev");
+        System.out.println("git 分支 修改 dev");
     }
 }
