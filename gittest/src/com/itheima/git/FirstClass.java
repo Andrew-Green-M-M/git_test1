@@ -11,5 +11,6 @@ public class FirstClass {
         Integer n=10;
         n+=10;
         System.out.println("git");
+        n=n++;
     }
 }
